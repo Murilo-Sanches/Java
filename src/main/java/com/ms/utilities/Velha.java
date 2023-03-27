@@ -1,6 +1,9 @@
 package com.ms.utilities;
 
 public class Velha {
+    public static void main(String[] args) {
+        System.out.println("oba");
+    }
 
     private char[][] jogoVelha;
     private int jogada;

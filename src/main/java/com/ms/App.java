@@ -196,9 +196,5 @@ public class App {
          * linhasFixasComColunasVariadas[1] = new int[2];
          * linhasFixasComColunasVariadas[2] = new int[4];
          */
-
-        String s1 = "por referência";
-        String s2 = "por referência";
-        String s3 = s1;
     }
 }
